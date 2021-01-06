@@ -1,0 +1,21 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  portfolio_id: 1
+  stock_id: 1
+  buy_date: 2021-01-06 16:01:39
+  buy_price: 1
+  sell_date: 2021-01-06 16:01:39
+  sell_price: 1
+  open: false
+  num_shares: 1
+
+two:
+  portfolio_id: 1
+  stock_id: 1
+  buy_date: 2021-01-06 16:01:39
+  buy_price: 1
+  sell_date: 2021-01-06 16:01:39
+  sell_price: 1
+  open: false
+  num_shares: 1
